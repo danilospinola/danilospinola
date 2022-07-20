@@ -1,16 +1,29 @@
 ### Hi there 👋
+<div align="center">
+### Hi there 👋
 
-<!--
-**danilospinola/danilospinola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I’m currently working with Java <br>
+  I’m currently learning Python and Java <br>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/PTorini1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilospinola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilospinola&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Danilo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Danilo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Danilo-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Danilo-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Danilo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+  
+  ##
+ 
+<div align="center"> 
+  <a href = "danspinola10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/PTorini1/PTorini1/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
