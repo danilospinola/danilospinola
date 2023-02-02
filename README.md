@@ -1,8 +1,8 @@
 <div align="center">
 Good morning, Good afternoon and Good night.
 
-  I’m currently working with Java <br>
-  I’m currently learning Python and Java <br>
+  I’m currently working with websites, python <br>
+  I’m currently learning react  <br>
 </div>
 
 <div align="center">
