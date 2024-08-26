@@ -2,7 +2,7 @@
 Good morning, Good afternoon and Good night.
 
   I’m currently working with websites, python <br>
-  I’m currently learning react  <br>
+  I’m currently learning react and C# <br>
 </div>
 
 <div align="center">
