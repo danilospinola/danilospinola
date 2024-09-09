@@ -11,7 +11,7 @@ Good morning, Good afternoon and Good night.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilospinola&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Danilo-Icons" height="50" width="800" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,cs,react,mysql,git,bootstrap,cs,gcp,firebase,vite,ts">  
+  <img align="center" alt="Danilo-Icons" height="100" width="800" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,cs,react,mysql,git,bootstrap,cs,gcp,firebase,vite,ts">  
 </div>
   
   ##
