@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img align="center" alt="Danilo-Icons" height="100" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,react,mysql,git,bootstrap,cs,gcp,firebase,vite,dotnet,eclipse">
+  <img align="center" alt="Danilo-Icons" height="100" src="https://skillicons.dev/icons?i=html,css,scss,php,jquery,java,js,py,react,mysql,git,bootstrap,cs,gcp,firebase,vite,dotnet,eclipse,SAP">
 </div>
 
 <hr />
